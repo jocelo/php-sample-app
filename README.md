@@ -1,2 +1,2 @@
-# php-sample-app
-Simple PHP app, used for automation
+# PHP Sample App
+Super simple PHP app, purposefully meant to be as simple as possible.
